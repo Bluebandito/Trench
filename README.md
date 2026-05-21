@@ -1,3 +1,5 @@
+IMPORTANT - For edit history and timline, go to the "index.html " file, the other files (except liscence) were duplicated and I dont know how to remove them. Everything is under index.html
+
 This website is my first website. I used it to learn the basics of CSS and HTML.
 The website talks about me and my passion for my favorite band: Twenty one pilots (TOP)
 It has a picture of TOP's album, Trench, at the top, followed by my github username.
